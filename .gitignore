@@ -13,3 +13,6 @@ playwright-report/
 .vscode/
 trajectory.jsonl
 trajectory.md.jsonl
+
+# 本地浏览器走查产物
+verify-shots/
